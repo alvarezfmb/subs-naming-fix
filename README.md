@@ -5,7 +5,7 @@ Little Python script specially designed to fix subtitles and video files naming 
 To run it, when located in the same directory as the .py file:
 
 ```
-python str_fix.py
+python subs_naming_fix.py
 ```
 
 A disorganized folder like this:
